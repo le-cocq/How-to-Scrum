@@ -31,7 +31,7 @@ instagram_username:  hm_muenchen_dmt
 
 # Build settings
 
-theme: minima
+theme: jekyll-theme-hacker
 
 plugins:
   - jekyll-feed
